@@ -19,7 +19,7 @@ public:
     float price;   // Car price
     int mileage;   // Car mileage
 
-    // Constructor to initialize data members
+    // Initialize data members
     Car(string b, string m, float p, int mil) {
         brand = b;
         model = m;
